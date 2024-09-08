@@ -34,7 +34,3 @@ if timeout clear cmd and restart ngrok
 to start and restart ngrok\
 ----> Run this command: ngrok http 8000\
 (your_localhost_address --> 8000)
-_____________________________________________________________
-My first project
-[**if any problem in this repository please give me pull request**]
-thank_you :)
